@@ -1,0 +1,8 @@
+﻿  Calculator.cpp
+C:\Users\danil\source\repos\PostFixCalculator\PostFixCalculator\Calculator.cpp(13,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\danil\source\repos\PostFixCalculator\PostFixCalculator\Calculator.cpp(48,29): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\danil\source\repos\PostFixCalculator\PostFixCalculator\Calculator.cpp(89,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\danil\source\repos\PostFixCalculator\PostFixCalculator\Calculator.cpp(92,16): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\danil\source\repos\PostFixCalculator\PostFixCalculator\Calculator.cpp(100,25): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\danil\source\repos\PostFixCalculator\PostFixCalculator\Calculator.cpp(165,41): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  PostFixCalculator.vcxproj -> C:\Users\danil\source\repos\PostFixCalculator\Debug\PostFixCalculator.exe
